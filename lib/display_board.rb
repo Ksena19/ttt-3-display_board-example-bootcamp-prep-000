@@ -1,3 +1,5 @@
 def display_board
-   print "A Tic Tac Toe Board"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
  end
